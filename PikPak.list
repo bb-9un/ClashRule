@@ -1,7 +1,9 @@
-DOMAIN-SUFFIX,mypikpak.com
-DOMAIN-SUFFIX,mypikpak.net
-DOMAIN-SUFFIX,pikpak.me
-DOMAIN-SUFFIX,web-vod-xdrive.mypikpak.net
-DOMAIN-KEYWORD,mypikpak
-DOMAIN-KEYWORD,pikpak
-DOMAIN-KEYWORD,web-vod-xdrive.mypikpak
+#DOMAIN-SUFFIX,mypikpak.com
+#DOMAIN-SUFFIX,mypikpak.net
+#DOMAIN-SUFFIX,pikpak.me
+#DOMAIN-SUFFIX,web-vod-xdrive.mypikpak.net
+#DOMAIN-KEYWORD,mypikpak
+#DOMAIN-KEYWORD,pikpak
+#DOMAIN-KEYWORD,web-vod-xdrive.mypikpak
+DOMAIN,api-drive.mypikpak.com
+DOMAIN-KEYWORD,dl-a10b-
