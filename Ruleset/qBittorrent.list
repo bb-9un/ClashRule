@@ -1,0 +1,6 @@
+# qBittorrent Enhanced BT 直连
+DST-PORT,30413
+SRC-PORT,30413
+
+# DHT / PEX（UDP）
+DST-PORT,6881
