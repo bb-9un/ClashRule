@@ -1,5 +1,7 @@
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
+DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN,api.githubcopilot.com
 DOMAIN,api.groq.com
 DOMAIN,api.together.xyz
@@ -45,4 +47,3 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
