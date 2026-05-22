@@ -1,0 +1,8 @@
+# Tailscale
+PROCESS-NAME,tailscaled
+# Steam Server
+DOMAIN-SUFFIX,steamserver.net
+# Lyricify
+DOMAIN-SUFFIX,lyricify.app
+# dogfight360
+DOMAIN-SUFFIX,dogfight360.com
